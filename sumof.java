@@ -13,7 +13,7 @@ for(int i=0;i<a.length;i++)
 {
 a[i]=in.nextInt();
 }
-for(int i=0;i<k;i++)
+for(int i=0;i<K;i++)
 {
 sum=sum+a[i];
 }
