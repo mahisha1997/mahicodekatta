@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class sum
+class Sum
 {
 public static void main(String[] args)
 {
@@ -13,7 +13,7 @@ for(int i=0;i<a.length;i++)
 {
 a[i]=in.nextInt();
 }
-for(int i =0;i<k;i++)
+for(int i=0;i<k;i++)
 {
 sum=sum+a[i];
 }
